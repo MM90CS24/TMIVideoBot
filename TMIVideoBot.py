@@ -29,7 +29,7 @@ reload(sys)
 sys.setdefaultencoding('utf8')
 
 # TMIVideoBot - @TMIVideo_bot
-token = "BOT_TOKEN"
+token = "7289691158:AAGUu79cbdoi1dMHZEHu0q9BZ-rMhG004T4"
 bot = telebot.TeleBot(token)
 
 # Variables
